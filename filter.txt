@@ -1,0 +1,5 @@
+# String replace demo
+[ReplaceString1]==>[### ReplacedString1 ###]  <-- Replaced.
+[😊]==>[### 😊✅ ###]  <-- Replaced.
+/regext/([0-9]+).html/g==>No $1 is Replaced.
+

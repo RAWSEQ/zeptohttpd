@@ -1,0 +1,13 @@
+# Default Setting (Elective)
+html==>text/html
+htm==>text/html
+css==>text/css
+gif==>image/gif
+jpg==>image/jpeg
+jpeg==>image/jpeg
+png==>image/png
+svg==>image/svg+xml
+mov==>video/quicktime
+qt==>video/quicktime
+class==>application/octet-stream
+js==>application/x-javascript
